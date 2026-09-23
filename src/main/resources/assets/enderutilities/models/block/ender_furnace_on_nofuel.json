@@ -1,0 +1,12 @@
+﻿{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "enderutilities:block/ender_furnace_front_on_nofuel",
+    "north": "enderutilities:block/ender_furnace_front_on_nofuel",
+    "south": "enderutilities:block/ender_furnace_side",
+    "east": "enderutilities:block/ender_furnace_side",
+    "west": "enderutilities:block/ender_furnace_side",
+    "up": "enderutilities:block/ender_furnace_top",
+    "down": "enderutilities:block/ender_furnace_top"
+  }
+}

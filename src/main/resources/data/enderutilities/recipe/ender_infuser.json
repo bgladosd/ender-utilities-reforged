@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "item": "enderutilities:enderpart_enderalloy_0" },
+    "H": { "item": "minecraft:hopper" },
+    "P": { "item": "minecraft:piston" },
+    "F": { "item": "minecraft:furnace" },
+    "O": { "item": "minecraft:obsidian" }
+  },
+  "pattern": [
+    "AHA",
+    "APA",
+    "OFO"
+  ],
+  "result": { "id": "enderutilities:ender_infuser", "count": 1 }
+}

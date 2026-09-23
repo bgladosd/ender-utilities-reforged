@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": { "item": "minecraft:redstone" },
+    "G": { "item": "minecraft:green_stained_glass" },
+    "A": { "item": "enderutilities:enderpart_enderalloy_0" }
+  },
+  "pattern": [
+    "RGR",
+    "GAG",
+    "RGR"
+  ],
+  "result": { "id": "enderutilities:linkcrystal_0", "count": 1 }
+}

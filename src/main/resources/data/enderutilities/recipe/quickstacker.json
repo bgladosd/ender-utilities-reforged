@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "pattern": [
+    "RPR",
+    "ACA",
+    "RPR"
+  ],
+  "result": {
+    "id": "enderutilities:quickstacker",
+    "count": 1
+  }
+}

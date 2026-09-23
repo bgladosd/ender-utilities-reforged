@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": { "item": "enderutilities:enderpart_enderalloy_0" },
+    "S": { "item": "enderutilities:enderpart_enderstick" }
+  },
+  "pattern": [
+    "A  ",
+    "AS ",
+    "AAA"
+  ],
+  "result": { "id": "enderutilities:ruler", "count": 1 }
+}

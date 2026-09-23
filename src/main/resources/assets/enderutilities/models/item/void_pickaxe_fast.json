@@ -1,0 +1,6 @@
+{
+    "parent": "enderutilities:item/void_pickaxe",
+    "textures": {
+        "base": "enderutilities:item/void_pickaxe_fast"
+    }
+}

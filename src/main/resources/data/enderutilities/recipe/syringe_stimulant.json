@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    { "item": "enderutilities:syringe_empty" },
+    { "item": "minecraft:sugar" },
+    { "item": "minecraft:carrot" },
+    { "item": "minecraft:glistering_melon_slice" }
+  ],
+  "result": { "id": "enderutilities:syringe_stimulant", "count": 1 }
+}

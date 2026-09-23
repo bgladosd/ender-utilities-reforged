@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    }
+  },
+  "pattern": [
+    "ANA",
+    "N N",
+    "ANA"
+  ],
+  "result": {
+    "id": "enderutilities:sound_block",
+    "count": 1
+  }
+}

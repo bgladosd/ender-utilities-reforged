@@ -1,0 +1,8 @@
+﻿{
+  "variants": {
+    "facing=north": { "model": "enderutilities:block/inserter_filtered" },
+    "facing=south": { "model": "enderutilities:block/inserter_filtered", "y": 180 },
+    "facing=west": { "model": "enderutilities:block/inserter_filtered", "y": 270 },
+    "facing=east": { "model": "enderutilities:block/inserter_filtered", "y": 90 }
+  }
+}

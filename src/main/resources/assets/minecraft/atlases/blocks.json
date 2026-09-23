@@ -1,0 +1,13 @@
+{
+  "sources": [
+    { "type": "single", "resource": "enderutilities:item/endertool_module_core_1" },
+    { "type": "single", "resource": "enderutilities:item/endertool_module_core_2" },
+    { "type": "single", "resource": "enderutilities:item/endertool_module_core_3" },
+    { "type": "single", "resource": "enderutilities:item/endertool_module_capacitor_1" },
+    { "type": "single", "resource": "enderutilities:item/endertool_module_capacitor_2" },
+    { "type": "single", "resource": "enderutilities:item/endertool_module_capacitor_3" },
+    { "type": "single", "resource": "enderutilities:item/endertool_module_capacitor_4" },
+    { "type": "single", "resource": "enderutilities:item/endertool_module_linkcrystal_1" },
+    { "type": "single", "resource": "enderutilities:item/endertool_module_linkcrystal_2" }
+  ]
+}

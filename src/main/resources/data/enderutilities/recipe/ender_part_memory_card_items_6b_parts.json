@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": { "item": "minecraft:gold_ingot" },
+    "A": { "item": "enderutilities:enderpart_enderalloy_0" },
+    "C": { "tag": "c:chests/wooden" }
+  },
+  "pattern": [
+    " G ",
+    "ACA",
+    "ACA"
+  ],
+  "result": { "id": "enderutilities:enderpart_memorycard_items_0", "count": 2 }
+}

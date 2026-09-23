@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "tag": "minecraft:wooden_stairs"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    }
+  },
+  "pattern": [
+    "S  ",
+    " A ",
+    "  A"
+  ],
+  "result": {
+    "id": "enderutilities:chairwand",
+    "count": 1
+  }
+}

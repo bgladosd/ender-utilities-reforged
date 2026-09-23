@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    },
+    "C": {
+      "item": "enderutilities:handy_chest_2"
+    }
+  },
+  "pattern": [
+    "   ",
+    "ACA",
+    "ACA"
+  ],
+  "result": {
+    "id": "enderutilities:handy_chest_3",
+    "count": 1
+  }
+}

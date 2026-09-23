@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_1"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_endercore_1_inactive"
+    }
+  },
+  "pattern": [
+    "AHA",
+    "RCR",
+    "AHA"
+  ],
+  "result": {
+    "id": "enderutilities:pickupmanager",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    { "item": "enderutilities:syringe_empty" },
+    { "item": "minecraft:sugar" },
+    { "item": "minecraft:carrot" },
+    { "item": "minecraft:cake" },
+    { "item": "minecraft:cookie" },
+    { "item": "minecraft:cookie" }
+  ],
+  "result": { "id": "enderutilities:syringe_passifier", "count": 1 }
+}

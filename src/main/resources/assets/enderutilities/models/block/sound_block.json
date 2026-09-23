@@ -1,0 +1,12 @@
+﻿{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "enderutilities:block/sound_block_front",
+    "north": "enderutilities:block/sound_block_front",
+    "south": "enderutilities:block/sound_block_front",
+    "east": "enderutilities:block/sound_block_front",
+    "west": "enderutilities:block/sound_block_front",
+    "up": "enderutilities:block/sound_block_top",
+    "down": "enderutilities:block/sound_block_top"
+  }
+}

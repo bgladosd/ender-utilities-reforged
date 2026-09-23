@@ -1,0 +1,8 @@
+﻿{
+  "variants": {
+    "facing=north": { "model": "enderutilities:block/memory_chest_0" },
+    "facing=south": { "model": "enderutilities:block/memory_chest_0", "y": 180 },
+    "facing=west": { "model": "enderutilities:block/memory_chest_0", "y": 270 },
+    "facing=east": { "model": "enderutilities:block/memory_chest_0", "y": 90 }
+  }
+}

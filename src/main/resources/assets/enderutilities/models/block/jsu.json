@@ -1,0 +1,12 @@
+﻿{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "enderutilities:block/jsu_front",
+    "north": "enderutilities:block/jsu_front",
+    "south": "enderutilities:block/jsu_side",
+    "east": "enderutilities:block/jsu_side",
+    "west": "enderutilities:block/jsu_side",
+    "up": "enderutilities:block/jsu_side",
+    "down": "enderutilities:block/jsu_side"
+  }
+}

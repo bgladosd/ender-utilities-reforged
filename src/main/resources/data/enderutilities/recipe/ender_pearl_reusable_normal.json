@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": { "tag": "c:nuggets/gold" },
+    "P": { "item": "minecraft:ender_pearl" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "pattern": [
+    "GPG",
+    "PRP",
+    "GPG"
+  ],
+  "result": { "id": "enderutilities:enderpearlreusable", "count": 1 }
+}

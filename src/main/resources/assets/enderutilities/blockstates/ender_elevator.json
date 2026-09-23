@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "color=white": { "model": "enderutilities:block/ender_elevator" },
+    "color=orange": { "model": "enderutilities:block/ender_elevator" },
+    "color=magenta": { "model": "enderutilities:block/ender_elevator" },
+    "color=light_blue": { "model": "enderutilities:block/ender_elevator" },
+    "color=yellow": { "model": "enderutilities:block/ender_elevator" },
+    "color=lime": { "model": "enderutilities:block/ender_elevator" },
+    "color=pink": { "model": "enderutilities:block/ender_elevator" },
+    "color=gray": { "model": "enderutilities:block/ender_elevator" },
+    "color=light_gray": { "model": "enderutilities:block/ender_elevator" },
+    "color=cyan": { "model": "enderutilities:block/ender_elevator" },
+    "color=purple": { "model": "enderutilities:block/ender_elevator" },
+    "color=blue": { "model": "enderutilities:block/ender_elevator" },
+    "color=brown": { "model": "enderutilities:block/ender_elevator" },
+    "color=green": { "model": "enderutilities:block/ender_elevator" },
+    "color=red": { "model": "enderutilities:block/ender_elevator" },
+    "color=black": { "model": "enderutilities:block/ender_elevator" }
+  }
+}

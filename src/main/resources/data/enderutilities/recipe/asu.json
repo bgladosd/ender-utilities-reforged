@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    },
+    "R": {
+      "item": "minecraft:repeater"
+    },
+    "E": {
+      "item": "minecraft:ender_chest"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "pattern": [
+    "ARA",
+    "AEA",
+    "ACA"
+  ],
+  "result": {
+    "id": "enderutilities:asu",
+    "count": 1
+  },
+  "group": "enderutilities:asu"
+}

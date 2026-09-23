@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": { "tag": "c:nuggets/gold" },
+    "A": { "item": "enderutilities:enderpart_enderalloy_0" },
+    "P": { "item": "minecraft:repeater" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "pattern": [
+    " G ",
+    "APA",
+    "ARA"
+  ],
+  "result": { "id": "enderutilities:enderpart_memorycard_misc", "count": 4 }
+}

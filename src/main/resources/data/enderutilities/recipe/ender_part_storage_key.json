@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "item": "enderutilities:enderpart_enderalloy_0" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "pattern": [
+    "AS ",
+    "AS ",
+    " S "
+  ],
+  "result": { "id": "enderutilities:enderpart_storage_key", "count": 1 }
+}

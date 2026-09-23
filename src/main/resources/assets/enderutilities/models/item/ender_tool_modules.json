@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "module_core_1": "enderutilities:item/endertool_module_core_1",
+    "module_core_2": "enderutilities:item/endertool_module_core_2",
+    "module_core_3": "enderutilities:item/endertool_module_core_3",
+    "module_capacitor_1": "enderutilities:item/endertool_module_capacitor_1",
+    "module_capacitor_2": "enderutilities:item/endertool_module_capacitor_2",
+    "module_capacitor_3": "enderutilities:item/endertool_module_capacitor_3",
+    "module_capacitor_4": "enderutilities:item/endertool_module_capacitor_4",
+    "module_linkcrystal_1": "enderutilities:item/endertool_module_linkcrystal_1",
+    "module_linkcrystal_2": "enderutilities:item/endertool_module_linkcrystal_2"
+  }
+}

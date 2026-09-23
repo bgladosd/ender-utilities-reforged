@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:cobblestone"
+    },
+    "H": {
+      "item": "minecraft:chest"
+    },
+    "M": {
+      "item": "enderutilities:handy_chest_0"
+    }
+  },
+  "pattern": [
+    "CHC",
+    "CMC",
+    "CHC"
+  ],
+  "result": {
+    "id": "enderutilities:jsu",
+    "count": 1
+  }
+}

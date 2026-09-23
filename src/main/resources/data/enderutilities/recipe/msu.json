@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_2"
+    },
+    "H": {
+      "item": "enderutilities:handy_chest_2"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_endercore_2_active"
+    }
+  },
+  "pattern": [
+    "AHA",
+    "ACA",
+    "AHA"
+  ],
+  "result": {
+    "id": "enderutilities:msu",
+    "count": 1
+  }
+}

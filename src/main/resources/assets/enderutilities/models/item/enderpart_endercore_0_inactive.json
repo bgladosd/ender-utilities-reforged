@@ -1,0 +1,7 @@
+﻿{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "enderutilities:item/enderpart_endercore_inactive_0"
+  }
+}
+

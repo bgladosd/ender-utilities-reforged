@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "tag": "c:chests/wooden"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    }
+  },
+  "pattern": [
+    "CLC",
+    "A A",
+    "CLC"
+  ],
+  "result": {
+    "id": "enderutilities:nullifier",
+    "count": 1
+  }
+}

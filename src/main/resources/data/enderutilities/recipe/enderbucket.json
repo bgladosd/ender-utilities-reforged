@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_1"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_endercore_1_inactive"
+    }
+  },
+  "pattern": [
+    "A A",
+    " A ",
+    " C "
+  ],
+  "result": {
+    "id": "enderutilities:enderbucket",
+    "count": 1
+  }
+}

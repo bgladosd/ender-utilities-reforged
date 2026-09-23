@@ -1,0 +1,14 @@
+﻿{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "enderutilities:item/endercapacitor_empty_3"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "enderutilities:charged": 1
+      },
+      "model": "enderutilities:item/endercapacitor_3_charged"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:oak_slab"
+    },
+    "I": {
+      "item": "enderutilities:enderpart_enderstick"
+    }
+  },
+  "pattern": [
+    "SSS",
+    " I ",
+    "SSS"
+  ],
+  "result": {
+    "id": "enderutilities:floor_cracked",
+    "count": 1
+  }
+}

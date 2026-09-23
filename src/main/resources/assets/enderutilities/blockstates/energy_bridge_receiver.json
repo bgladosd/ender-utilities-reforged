@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,active=false": { "model": "enderutilities:block/energy_bridge_receiver_off" },
+    "facing=south,active=false": { "model": "enderutilities:block/energy_bridge_receiver_off" },
+    "facing=west,active=false": { "model": "enderutilities:block/energy_bridge_receiver_off" },
+    "facing=east,active=false": { "model": "enderutilities:block/energy_bridge_receiver_off" },
+    "facing=north,active=true": { "model": "enderutilities:block/energy_bridge_receiver_active" },
+    "facing=south,active=true": { "model": "enderutilities:block/energy_bridge_receiver_active" },
+    "facing=west,active=true": { "model": "enderutilities:block/energy_bridge_receiver_active" },
+    "facing=east,active=true": { "model": "enderutilities:block/energy_bridge_receiver_active" }
+  }
+}

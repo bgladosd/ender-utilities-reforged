@@ -1,0 +1,12 @@
+﻿{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "enderutilities:item/enderporter_advanced_stage_0" },
+  "overrides": [
+    { "predicate": { "enderutilities:inuse": 1, "enderutilities:usetime": 0.167 }, "model": "enderutilities:item/enderporter_advanced_1" },
+    { "predicate": { "enderutilities:inuse": 1, "enderutilities:usetime": 0.333 }, "model": "enderutilities:item/enderporter_advanced_2" },
+    { "predicate": { "enderutilities:inuse": 1, "enderutilities:usetime": 0.5 }, "model": "enderutilities:item/enderporter_advanced_3" },
+    { "predicate": { "enderutilities:inuse": 1, "enderutilities:usetime": 0.667 }, "model": "enderutilities:item/enderporter_advanced_4" },
+    { "predicate": { "enderutilities:inuse": 1, "enderutilities:usetime": 0.833 }, "model": "enderutilities:item/enderporter_advanced_5" },
+    { "predicate": { "enderutilities:inuse": 1, "enderutilities:usetime": 1 }, "model": "enderutilities:item/enderporter_advanced_6" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "C": {
+      "item": "minecraft:ender_chest"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_1"
+    }
+  },
+  "pattern": [
+    "LCL",
+    "A A",
+    "LAL"
+  ],
+  "result": {
+    "id": "enderutilities:handybag",
+    "count": 1
+  }
+}

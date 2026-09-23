@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_1"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_endercore_1_inactive"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "GCR",
+    "AAA"
+  ],
+  "result": {
+    "id": "enderutilities:molecular_exciter",
+    "count": 1
+  }
+}

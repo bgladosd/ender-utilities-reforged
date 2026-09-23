@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": { "item": "minecraft:obsidian" },
+    "I": { "item": "minecraft:iron_bars" },
+    "C": { "item": "enderutilities:enderpart_endercore_1_inactive" }
+  },
+  "pattern": [
+    "OIO",
+    "ICI",
+    "OIO"
+  ],
+  "result": { "id": "enderutilities:enderpart_barrel_upgrade_1", "count": 1 }
+}

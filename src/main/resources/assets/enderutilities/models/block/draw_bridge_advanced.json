@@ -1,0 +1,12 @@
+﻿{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "enderutilities:block/draw_bridge_front_advanced",
+    "north": "enderutilities:block/draw_bridge_front_advanced",
+    "south": "enderutilities:block/draw_bridge_back",
+    "east": "enderutilities:block/draw_bridge_side_advanced",
+    "west": "enderutilities:block/draw_bridge_side_advanced",
+    "up": "enderutilities:block/draw_bridge_side_advanced",
+    "down": "enderutilities:block/draw_bridge_side_advanced"
+  }
+}

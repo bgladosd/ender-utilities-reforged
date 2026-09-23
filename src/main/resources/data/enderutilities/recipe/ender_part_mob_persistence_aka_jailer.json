@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "item": "enderutilities:enderpart_enderalloy_0" },
+    "B": { "item": "minecraft:iron_bars" }
+  },
+  "pattern": [
+    "ABA",
+    "B B",
+    "ABA"
+  ],
+  "result": { "id": "enderutilities:enderpart_jailer", "count": 1 }
+}

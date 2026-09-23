@@ -1,0 +1,12 @@
+﻿{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "enderutilities:block/quick_stacker_advanced_front",
+    "north": "enderutilities:block/quick_stacker_advanced_front",
+    "south": "enderutilities:block/ender_infuser_side",
+    "east": "enderutilities:block/ender_infuser_side",
+    "west": "enderutilities:block/ender_infuser_side",
+    "up": "enderutilities:block/ender_infuser_top",
+    "down": "enderutilities:block/ender_infuser_bottom"
+  }
+}

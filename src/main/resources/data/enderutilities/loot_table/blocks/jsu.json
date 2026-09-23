@@ -1,0 +1,10 @@
+﻿{
+  "type": "minecraft:block",
+  "random_sequence": "enderutilities:blocks/jsu",
+  "pools": [{
+    "bonus_rolls": 0.0,
+    "conditions": [{ "condition": "minecraft:survives_explosion" }],
+    "entries": [{ "type": "minecraft:item", "name": "enderutilities:jsu" }],
+    "rolls": 1.0
+  }]
+}

@@ -1,0 +1,6 @@
+﻿{
+  "variants": {
+    "half=bottom": { "model": "enderutilities:block/floor_cracked_bottom" },
+    "half=top": { "model": "enderutilities:block/floor_cracked_top" }
+  }
+}

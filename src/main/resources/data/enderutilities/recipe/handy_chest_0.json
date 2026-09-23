@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    },
+    "H": {
+      "item": "minecraft:chest"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_endercore_0_inactive"
+    }
+  },
+  "pattern": [
+    "   ",
+    "AHA",
+    "PCP"
+  ],
+  "result": {
+    "id": "enderutilities:handy_chest_0",
+    "count": 2
+  }
+}

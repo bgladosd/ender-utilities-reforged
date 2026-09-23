@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_1"
+    },
+    "B": {
+      "item": "enderutilities:enderpart_enderalloy_2"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_endercore_1_inactive"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "BCA",
+    "  A"
+  ],
+  "result": {
+    "id": "enderutilities:livingmanipulator",
+    "count": 1
+  }
+}

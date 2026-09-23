@@ -1,0 +1,10 @@
+﻿{
+  "variants": {
+    "facing=north": { "model": "enderutilities:block/portal" },
+    "facing=south": { "model": "enderutilities:block/portal", "y": 180 },
+    "facing=west": { "model": "enderutilities:block/portal", "y": 270 },
+    "facing=east": { "model": "enderutilities:block/portal", "y": 90 },
+    "facing=up": { "model": "enderutilities:block/portal", "x": 270 },
+    "facing=down": { "model": "enderutilities:block/portal", "x": 90 }
+  }
+}

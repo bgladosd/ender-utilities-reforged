@@ -1,0 +1,4 @@
+﻿{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": { "top": "enderutilities:block/msu_normal_top_1", "bottom": "enderutilities:block/msu_normal_bottom_1", "side": "enderutilities:block/msu_normal_side_1" }
+}

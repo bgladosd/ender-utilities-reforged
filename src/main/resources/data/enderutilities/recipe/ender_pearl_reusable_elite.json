@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": { "item": "minecraft:feather" },
+    "A": { "item": "enderutilities:enderpart_enderalloy_1" },
+    "C": { "item": "enderutilities:enderpart_endercore_0_inactive" },
+    "P": { "item": "enderutilities:enderpearlreusable" }
+  },
+  "pattern": [
+    "FAF",
+    "APA",
+    "FCF"
+  ],
+  "result": { "id": "enderutilities:enderpearlreusable_elite", "count": 1 }
+}

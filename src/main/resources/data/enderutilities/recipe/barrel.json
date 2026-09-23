@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "minecraft:oak_log"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    }
+  },
+  "pattern": [
+    "LAL",
+    "LCL",
+    "LAL"
+  ],
+  "result": {
+    "id": "enderutilities:barrel",
+    "count": 1
+  }
+}

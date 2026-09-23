@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "enderutilities:item/enderbag_enderchest_closed",
+    "layer1": "enderutilities:item/item_overlay_locked"
+  }
+}

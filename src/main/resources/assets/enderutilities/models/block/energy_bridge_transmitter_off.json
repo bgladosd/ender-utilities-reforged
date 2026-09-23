@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "enderutilities:block/energy_bridge_transmitter_side_off",
+    "north": "enderutilities:block/energy_bridge_transmitter_side_off",
+    "south": "enderutilities:block/energy_bridge_transmitter_side_off",
+    "east": "enderutilities:block/energy_bridge_transmitter_side_off",
+    "west": "enderutilities:block/energy_bridge_transmitter_side_off",
+    "up": "enderutilities:block/energy_bridge_transmitter_top_off",
+    "down": "enderutilities:block/energy_bridge_transmitter_top_off"
+  }
+}

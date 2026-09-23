@@ -1,0 +1,12 @@
+﻿{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "enderutilities:block/molecular_exciter_front_active",
+    "north": "enderutilities:block/molecular_exciter_front_active",
+    "south": "enderutilities:block/molecular_exciter_back",
+    "east": "enderutilities:block/molecular_exciter_side",
+    "west": "enderutilities:block/molecular_exciter_side",
+    "up": "enderutilities:block/molecular_exciter_side",
+    "down": "enderutilities:block/molecular_exciter_side"
+  }
+}

@@ -1,0 +1,12 @@
+﻿{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "enderutilities:block/creation_station_front",
+    "north": "enderutilities:block/creation_station_front",
+    "south": "enderutilities:block/creation_station_side",
+    "east": "enderutilities:block/creation_station_side",
+    "west": "enderutilities:block/creation_station_side",
+    "up": "enderutilities:block/creation_station_top",
+    "down": "enderutilities:block/creation_station_side"
+  }
+}

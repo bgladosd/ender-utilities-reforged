@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "minecraft:repeater"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    }
+  },
+  "pattern": [
+    "   ",
+    "R R",
+    "ACA"
+  ],
+  "result": {
+    "id": "enderutilities:memory_chest_0",
+    "count": 3
+  }
+}

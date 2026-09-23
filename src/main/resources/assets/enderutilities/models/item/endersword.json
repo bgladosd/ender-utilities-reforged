@@ -1,0 +1,18 @@
+{
+  "parent": "enderutilities:item/ender_tool_modules",
+  "loader": "enderutilities:ender_tool",
+  "toolClass": "sword",
+  "tr_sx_w_co": 1.02, "tr_sy_w_co": 1.02, "tr_sz_w_co": 2.0, "tr_tx_w_co": 0.3125, "tr_ty_w_co": -0.4375, "tr_tz_w_co": 0,
+  "tr_sx_w_ca": 1.02, "tr_sy_w_ca": 1.02, "tr_sz_w_ca": 1.7, "tr_tx_w_ca": 0.1875, "tr_ty_w_ca": -0.5625, "tr_tz_w_ca": 0,
+  "tr_sx_w_lc": 1.02, "tr_sy_w_lc": 1.02, "tr_sz_w_lc": 1.5, "tr_tx_w_lc": 0, "tr_ty_w_lc": -0.875, "tr_tz_w_lc": 0,
+  "textures": {
+    "layer0": "enderutilities:item/endertool_sword_rod",
+    "layer1": "enderutilities:item/endertool_sword_head_normal_1"
+  },
+  "display": {
+    "thirdperson_righthand": { "rotation": [0, -90, 55], "translation": [0, 4.0, 0.5], "scale": [0.85, 0.85, 0.85] },
+    "thirdperson_lefthand": { "rotation": [0, 90, -55], "translation": [0, 4.0, 0.5], "scale": [0.85, 0.85, 0.85] },
+    "firstperson_righthand": { "rotation": [0, -90, 25], "translation": [1.13, 3.2, 1.13], "scale": [0.68, 0.68, 0.68] },
+    "firstperson_lefthand": { "rotation": [0, 90, -25], "translation": [1.13, 3.2, 1.13], "scale": [0.68, 0.68, 0.68] }
+  }
+}

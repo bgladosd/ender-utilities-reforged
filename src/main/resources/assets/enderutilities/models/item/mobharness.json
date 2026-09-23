@@ -1,0 +1,7 @@
+﻿{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "enderutilities:item/mobharness" },
+  "overrides": [
+    { "predicate": { "enderutilities:linked": 1 }, "model": "enderutilities:item/mobharness_linked" }
+  ]
+}

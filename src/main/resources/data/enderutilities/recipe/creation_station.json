@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "enderutilities:ender_furnace"
+    },
+    "R": {
+      "item": "minecraft:crafting_table"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_1"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_endercore_1_inactive"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    "FRF",
+    "ACA",
+    "OAO"
+  ],
+  "result": {
+    "id": "enderutilities:creation_station",
+    "count": 1
+  }
+}

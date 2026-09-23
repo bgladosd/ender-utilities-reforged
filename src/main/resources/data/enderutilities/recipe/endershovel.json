@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_2"
+    },
+    "S": {
+      "item": "enderutilities:enderpart_enderstick"
+    }
+  },
+  "pattern": [
+    " A ",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "id": "enderutilities:endertool_endershovel",
+    "count": 1
+  }
+}

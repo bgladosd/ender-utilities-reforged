@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    },
+    "Q": {
+      "item": "enderutilities:quickstacker"
+    }
+  },
+  "pattern": [
+    "PAP",
+    "AQA",
+    "PAP"
+  ],
+  "result": {
+    "id": "enderutilities:quick_stacker_advanced",
+    "count": 1
+  }
+}

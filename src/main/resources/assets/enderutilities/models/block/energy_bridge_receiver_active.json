@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "enderutilities:block/energy_bridge_transmitter_top_active"
+  }
+}

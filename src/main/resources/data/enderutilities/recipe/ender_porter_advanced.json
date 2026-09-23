@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": { "item": "minecraft:ender_eye" },
+    "A": { "item": "enderutilities:enderpart_enderalloy_2" },
+    "C": { "item": "enderutilities:enderpart_endercore_2_active" }
+  },
+  "pattern": [
+    "EAE",
+    "ACA",
+    "EAE"
+  ],
+  "result": { "id": "enderutilities:enderporter_advanced", "count": 1 }
+}

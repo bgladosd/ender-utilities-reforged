@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    { "item": "enderutilities:syringe_empty" },
+    { "item": "minecraft:fermented_spider_eye" },
+    { "item": "minecraft:red_mushroom" },
+    { "item": "minecraft:brown_mushroom" }
+  ],
+  "result": { "id": "enderutilities:syringe_paralyzer", "count": 1 }
+}

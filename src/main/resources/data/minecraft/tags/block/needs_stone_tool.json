@@ -1,0 +1,29 @@
+{
+  "values": [
+    "enderutilities:ender_infuser",
+    "enderutilities:asu",
+    "enderutilities:barrel",
+    "enderutilities:draw_bridge",
+    "enderutilities:draw_bridge_advanced",
+    "enderutilities:ender_furnace",
+    "enderutilities:inserter",
+    "enderutilities:inserter_filtered",
+    "enderutilities:creation_station",
+    "enderutilities:quick_stacker_advanced",
+    "enderutilities:molecular_exciter",
+    "enderutilities:msu",
+    "enderutilities:msu_bundle",
+    "enderutilities:phasing",
+    "enderutilities:phasing_inverted",
+    "enderutilities:sound_block",
+    "enderutilities:memory_chest_0",
+    "enderutilities:memory_chest_1",
+    "enderutilities:memory_chest_2",
+    "enderutilities:handy_chest_0",
+    "enderutilities:handy_chest_1",
+    "enderutilities:handy_chest_2",
+    "enderutilities:handy_chest_3",
+    "enderutilities:jsu",
+    "enderutilities:tool_workstation"
+  ]
+}

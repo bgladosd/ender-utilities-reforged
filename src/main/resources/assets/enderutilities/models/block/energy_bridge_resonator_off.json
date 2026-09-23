@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "enderutilities:block/energy_bridge_resonator_front_off",
+    "north": "enderutilities:block/energy_bridge_resonator_front_off",
+    "south": "enderutilities:block/energy_bridge_resonator_back",
+    "east": "enderutilities:block/energy_bridge_resonator_side_off",
+    "west": "enderutilities:block/energy_bridge_resonator_side_off",
+    "up": "enderutilities:block/energy_bridge_resonator_top_off",
+    "down": "enderutilities:block/energy_bridge_resonator_top_off"
+  }
+}

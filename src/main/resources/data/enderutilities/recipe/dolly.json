@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_1"
+    },
+    "S": {
+      "item": "minecraft:slime_block"
+    }
+  },
+  "pattern": [
+    "  A",
+    "  A",
+    "AAS"
+  ],
+  "result": {
+    "id": "enderutilities:dolly",
+    "count": 1
+  }
+}

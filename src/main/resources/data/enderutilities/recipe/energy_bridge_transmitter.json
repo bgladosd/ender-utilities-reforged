@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "item": "enderutilities:enderpart_enderalloy_2" },
+    "S": { "item": "minecraft:nether_star" },
+    "G": { "item": "minecraft:glass" },
+    "C": { "item": "enderutilities:enderpart_endercore_2_active" }
+  },
+  "pattern": [
+    "ASA",
+    "ACA",
+    "AGA"
+  ],
+  "result": { "id": "enderutilities:energy_bridge_transmitter", "count": 1 }
+}

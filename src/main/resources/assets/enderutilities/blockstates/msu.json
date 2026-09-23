@@ -1,0 +1,1 @@
+﻿{ "variants": { "creative=false": { "model": "enderutilities:block/msu" }, "creative=true": { "model": "enderutilities:block/msu_creative" } } }

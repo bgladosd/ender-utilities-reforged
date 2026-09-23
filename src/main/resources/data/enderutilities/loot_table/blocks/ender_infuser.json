@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "enderutilities:blocks/ender_infuser",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        { "condition": "minecraft:survives_explosion" }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "enderutilities:ender_infuser"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

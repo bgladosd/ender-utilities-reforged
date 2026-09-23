@@ -1,0 +1,43 @@
+{
+  "textures": {
+    "particle": "enderutilities:block/portal",
+    "portal": "enderutilities:block/portal"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        6
+      ],
+      "to": [
+        16,
+        16,
+        10
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#portal",
+          "tintindex": 1
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#portal",
+          "tintindex": 1
+        }
+      }
+    }
+  ],
+  "parent": "minecraft:block/block"
+}

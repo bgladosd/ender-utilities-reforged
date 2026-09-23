@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": { "item": "enderutilities:enderpart_endercore_2_active" },
+    "R": { "item": "minecraft:blaze_rod" }
+  },
+  "pattern": [
+    "   ",
+    " C ",
+    "R  "
+  ],
+  "result": { "id": "enderutilities:icemelter", "count": 1 }
+}

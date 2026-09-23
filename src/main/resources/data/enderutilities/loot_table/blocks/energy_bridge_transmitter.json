@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "enderutilities:blocks/energy_bridge_transmitter",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        { "condition": "minecraft:survives_explosion" }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "enderutilities:energy_bridge_transmitter"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

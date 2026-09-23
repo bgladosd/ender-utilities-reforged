@@ -1,0 +1,10 @@
+﻿{
+  "type": "minecraft:block",
+  "random_sequence": "enderutilities:blocks/portal_panel",
+  "pools": [{
+    "bonus_rolls": 0.0,
+    "conditions": [{ "condition": "minecraft:survives_explosion" }],
+    "entries": [{ "type": "minecraft:item", "name": "enderutilities:portal_panel" }],
+    "rolls": 1.0
+  }]
+}

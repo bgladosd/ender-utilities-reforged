@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "enderutilities:blocks/energy_bridge_resonator",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        { "condition": "minecraft:survives_explosion" }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "enderutilities:energy_bridge_resonator"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+﻿{ "variants": { "powered=false": { "model": "enderutilities:block/phasing_inverted_phased" }, "powered=true": { "model": "enderutilities:block/phasing_inverted" } } }

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "enderutilities:enderpart_enderrope"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_1"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_endercore_1_inactive"
+    }
+  },
+  "pattern": [
+    "RA ",
+    "RCA",
+    "RA "
+  ],
+  "result": {
+    "id": "enderutilities:enderbow",
+    "count": 1
+  }
+}

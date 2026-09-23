@@ -1,0 +1,7 @@
+﻿{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "enderutilities:item/pet_contract_blank" },
+  "overrides": [
+    { "predicate": { "enderutilities:signed": 1 }, "model": "enderutilities:item/pet_contract_signed" }
+  ]
+}

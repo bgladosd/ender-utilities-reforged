@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": { "item": "enderutilities:enderpart_enderrope" },
+    "L": { "item": "minecraft:leather" },
+    "C": { "item": "enderutilities:enderpart_endercore_1_inactive" },
+    "W": { "tag": "minecraft:wool" }
+  },
+  "pattern": [
+    "RLR",
+    "LCL",
+    "RWR"
+  ],
+  "result": { "id": "enderutilities:enderbag", "count": 1 }
+}

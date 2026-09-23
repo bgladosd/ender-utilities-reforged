@@ -1,0 +1,8 @@
+﻿{
+  "variants": {
+    "facing=north": { "model": "enderutilities:block/quick_stacker_advanced" },
+    "facing=south": { "model": "enderutilities:block/quick_stacker_advanced", "y": 180 },
+    "facing=west": { "model": "enderutilities:block/quick_stacker_advanced", "y": 270 },
+    "facing=east": { "model": "enderutilities:block/quick_stacker_advanced", "y": 90 }
+  }
+}

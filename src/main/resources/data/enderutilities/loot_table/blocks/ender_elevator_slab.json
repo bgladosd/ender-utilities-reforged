@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "enderutilities:blocks/ender_elevator_slab",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "enderutilities:ender_elevator_slab",
+          "functions": [
+            {
+              "function": "minecraft:copy_state",
+              "block": "enderutilities:ender_elevator_slab",
+              "properties": [
+                "color"
+              ]
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

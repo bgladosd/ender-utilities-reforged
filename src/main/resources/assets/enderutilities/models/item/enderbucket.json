@@ -1,0 +1,17 @@
+{
+  "loader": "enderutilities:ender_bucket",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "enderutilities:item/enderbucket_32_normal_main",
+    "particle": "enderutilities:item/enderbucket_32_normal_main",
+    "normal_main": "enderutilities:item/enderbucket_32_normal_main",
+    "normal_insidetop": "enderutilities:item/enderbucket_32_normal_insidetop",
+    "normal_insidebottom": "enderutilities:item/enderbucket_32_normal_insidebottom",
+    "linked_main": "enderutilities:item/enderbucket_32_linked_main",
+    "linked_insidetop": "enderutilities:item/enderbucket_32_linked_insidetop",
+    "linked_insidebottom": "enderutilities:item/enderbucket_32_linked_insidebottom",
+    "mode_fill": "enderutilities:item/enderbucket_32_mode_fill",
+    "mode_drain": "enderutilities:item/enderbucket_32_mode_drain",
+    "mode_bind": "enderutilities:item/enderbucket_32_mode_bind"
+  }
+}

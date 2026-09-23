@@ -1,0 +1,9 @@
+{
+  "parent": "enderutilities:block/chest",
+  "textures": {
+    "particle": "enderutilities:block/memory_chest_2_front",
+    "front": "enderutilities:block/memory_chest_2_front",
+    "side": "enderutilities:block/memory_chest_2_side",
+    "top": "enderutilities:block/memory_chest_2_top"
+  }
+}

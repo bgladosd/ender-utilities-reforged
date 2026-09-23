@@ -1,0 +1,13 @@
+﻿{
+  "variants": {
+    "tier=1": { "model": "enderutilities:block/asu_1" },
+    "tier=2": { "model": "enderutilities:block/asu_2" },
+    "tier=3": { "model": "enderutilities:block/asu_3" },
+    "tier=4": { "model": "enderutilities:block/asu_4" },
+    "tier=5": { "model": "enderutilities:block/asu_5" },
+    "tier=6": { "model": "enderutilities:block/asu_6" },
+    "tier=7": { "model": "enderutilities:block/asu_7" },
+    "tier=8": { "model": "enderutilities:block/asu_8" },
+    "tier=9": { "model": "enderutilities:block/asu_9" }
+  }
+}

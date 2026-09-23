@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "B": {
+      "item": "minecraft:shulker_box"
+    },
+    "H": {
+      "item": "enderutilities:handybag"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_2"
+    }
+  },
+  "pattern": [
+    "LBL",
+    "AHA",
+    "LAL"
+  ],
+  "result": {
+    "id": "enderutilities:handybag_large",
+    "count": 1
+  }
+}

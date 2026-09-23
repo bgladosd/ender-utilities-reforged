@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": { "item": "minecraft:ender_pearl" },
+    "R": { "item": "minecraft:redstone" },
+    "A": { "item": "enderutilities:enderpart_enderalloy_0" },
+    "O": { "item": "minecraft:obsidian" }
+  },
+  "pattern": [
+    " P ",
+    "ARA",
+    "OAO"
+  ],
+  "result": { "id": "enderutilities:endercapacitor_0", "count": 1 }
+}

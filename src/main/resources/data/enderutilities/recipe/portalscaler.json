@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "G": {
+      "item": "minecraft:purple_stained_glass"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_endercore_2_active"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_2"
+    }
+  },
+  "pattern": [
+    "OGO",
+    "OCO",
+    "OAO"
+  ],
+  "result": {
+    "id": "enderutilities:portalscaler",
+    "count": 1
+  }
+}

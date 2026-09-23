@@ -1,0 +1,12 @@
+﻿{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "enderutilities:block/barrel_creative_front",
+    "north": "enderutilities:block/barrel_creative_front",
+    "south": "enderutilities:block/barrel_creative_side",
+    "east": "enderutilities:block/barrel_creative_side",
+    "west": "enderutilities:block/barrel_creative_side",
+    "up": "enderutilities:block/barrel_creative_top",
+    "down": "enderutilities:block/barrel_creative_top"
+  }
+}

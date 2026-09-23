@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": { "item": "minecraft:obsidian" },
+    "A": { "item": "enderutilities:enderpart_enderalloy_1" },
+    "E": { "item": "minecraft:emerald" }
+  },
+  "pattern": [
+    "OAO",
+    "AEA",
+    "OAO"
+  ],
+  "result": { "id": "enderutilities:enderpart_endercore_1_inactive", "count": 1 }
+}

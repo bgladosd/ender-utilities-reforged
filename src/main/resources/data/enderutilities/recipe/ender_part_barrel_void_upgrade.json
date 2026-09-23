@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "item": "enderutilities:enderpart_enderalloy_0" },
+    "L": { "item": "minecraft:lava_bucket" }
+  },
+  "pattern": [
+    "AAA",
+    "ALA",
+    "AAA"
+  ],
+  "result": { "id": "enderutilities:enderpart_barrel_upgrade_3", "count": 2 }
+}

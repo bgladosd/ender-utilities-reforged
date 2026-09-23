@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_memorycard_items_0"
+    }
+  },
+  "pattern": [
+    "AHA",
+    "ACA",
+    "AHA"
+  ],
+  "result": {
+    "id": "enderutilities:inventoryswapper",
+    "count": 1
+  }
+}

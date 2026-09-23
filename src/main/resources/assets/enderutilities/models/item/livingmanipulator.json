@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "enderutilities:item/livingmanipulator_normal"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "enderutilities:mode": 0.5
+      },
+      "model": "enderutilities:item/livingmanipulator_capture"
+    },
+    {
+      "predicate": {
+        "enderutilities:mode": 1.0
+      },
+      "model": "enderutilities:item/livingmanipulator_release"
+    }
+  ]
+}

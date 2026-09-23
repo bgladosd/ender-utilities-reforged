@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_endercore_0_inactive"
+    }
+  },
+  "pattern": [
+    "OAO",
+    "AFA",
+    "OCO"
+  ],
+  "result": {
+    "id": "enderutilities:ender_furnace",
+    "count": 1
+  }
+}

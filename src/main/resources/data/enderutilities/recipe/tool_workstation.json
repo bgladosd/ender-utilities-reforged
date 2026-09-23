@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": { "item": "enderutilities:enderpart_enderalloy_0" },
+    "S": { "item": "minecraft:slime_ball" },
+    "C": { "item": "minecraft:crafting_table" },
+    "O": { "item": "minecraft:obsidian" },
+    "H": { "tag": "c:chests/wooden" }
+  },
+  "pattern": [
+    "ASA",
+    "ACA",
+    "OHO"
+  ],
+  "result": { "id": "enderutilities:tool_workstation", "count": 1 }
+}

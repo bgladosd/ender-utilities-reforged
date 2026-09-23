@@ -1,0 +1,16 @@
+﻿{
+  "variants": {
+    "facing=north,powered=false": { "model": "enderutilities:block/molecular_exciter" },
+    "facing=south,powered=false": { "model": "enderutilities:block/molecular_exciter", "y": 180 },
+    "facing=west,powered=false": { "model": "enderutilities:block/molecular_exciter", "y": 270 },
+    "facing=east,powered=false": { "model": "enderutilities:block/molecular_exciter", "y": 90 },
+    "facing=up,powered=false": { "model": "enderutilities:block/molecular_exciter", "x": 270 },
+    "facing=down,powered=false": { "model": "enderutilities:block/molecular_exciter", "x": 90 },
+    "facing=north,powered=true": { "model": "enderutilities:block/molecular_exciter_on" },
+    "facing=south,powered=true": { "model": "enderutilities:block/molecular_exciter_on", "y": 180 },
+    "facing=west,powered=true": { "model": "enderutilities:block/molecular_exciter_on", "y": 270 },
+    "facing=east,powered=true": { "model": "enderutilities:block/molecular_exciter_on", "y": 90 },
+    "facing=up,powered=true": { "model": "enderutilities:block/molecular_exciter_on", "x": 270 },
+    "facing=down,powered=true": { "model": "enderutilities:block/molecular_exciter_on", "x": 90 }
+  }
+}

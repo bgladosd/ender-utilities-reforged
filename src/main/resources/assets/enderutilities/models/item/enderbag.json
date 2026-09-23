@@ -1,0 +1,20 @@
+﻿{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "enderutilities:item/enderbag_regular_closed"
+  },
+  "overrides": [
+    {
+      "predicate": { "enderutilities:ender": 1 },
+      "model": "enderutilities:item/enderbag_ender"
+    },
+    {
+      "predicate": { "enderutilities:locked": 1 },
+      "model": "enderutilities:item/enderbag_locked"
+    },
+    {
+      "predicate": { "enderutilities:ender": 1, "enderutilities:locked": 1 },
+      "model": "enderutilities:item/enderbag_ender_locked"
+    }
+  ]
+}

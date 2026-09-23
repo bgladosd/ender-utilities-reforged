@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": { "item": "minecraft:stick" },
+    "A": { "item": "enderutilities:enderpart_enderalloy_0" }
+  },
+  "pattern": [
+    "SSS",
+    "SAS",
+    "SSS"
+  ],
+  "result": { "id": "enderutilities:enderpart_barrel_upgrade_0", "count": 1 }
+}

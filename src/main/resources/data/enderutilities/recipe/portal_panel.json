@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "enderutilities:frame"
+    },
+    "R": {
+      "item": "minecraft:repeater"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_endercore_1_active"
+    }
+  },
+  "pattern": [
+    "FRF",
+    "FCF",
+    "FRF"
+  ],
+  "result": {
+    "id": "enderutilities:portal_panel",
+    "count": 2
+  }
+}

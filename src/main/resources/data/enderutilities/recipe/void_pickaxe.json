@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_2"
+    },
+    "S": {
+      "item": "enderutilities:enderpart_enderstick"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    },
+    "F": {
+      "item": "minecraft:fire_charge"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "LSL",
+    "FSF"
+  ],
+  "result": {
+    "id": "enderutilities:void_pickaxe",
+    "count": 1
+  }
+}

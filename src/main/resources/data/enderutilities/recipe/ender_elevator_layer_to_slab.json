@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "enderutilities:ender_elevator_layer"
+    }
+  },
+  "pattern": [
+    "E",
+    "E"
+  ],
+  "result": {
+    "id": "enderutilities:ender_elevator_slab",
+    "count": 2
+  }
+}

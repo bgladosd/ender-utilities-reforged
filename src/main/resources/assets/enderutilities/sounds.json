@@ -1,0 +1,10 @@
+{
+    "jailer": {
+    "subtitle": "enderutilities.subtitle.jailer",
+    "sounds": ["enderutilities:jailer"]
+  },
+  "molecular_exciter": {
+    "subtitle": "enderutilities.subtitle.molecular_exciter",
+    "sounds": ["enderutilities:molecular_exciter"]
+  }
+}

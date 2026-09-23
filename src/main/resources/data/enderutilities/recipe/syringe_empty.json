@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": { "item": "enderutilities:enderpart_enderalloy_1" },
+    "G": { "tag": "c:glass_blocks" },
+    "S": { "item": "enderutilities:enderpart_enderstick" }
+  },
+  "pattern": [
+    "A  ",
+    " G ",
+    "  S"
+  ],
+  "result": { "id": "enderutilities:syringe_empty", "count": 1 }
+}

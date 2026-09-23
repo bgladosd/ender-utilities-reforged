@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "enderutilities:block/tool_workstation_front",
+    "north": "enderutilities:block/tool_workstation_front",
+    "south": "enderutilities:block/tool_workstation_side",
+    "east": "enderutilities:block/tool_workstation_side",
+    "west": "enderutilities:block/tool_workstation_side",
+    "up": "enderutilities:block/tool_workstation_top",
+    "down": "enderutilities:block/tool_workstation_bottom"
+  }
+}

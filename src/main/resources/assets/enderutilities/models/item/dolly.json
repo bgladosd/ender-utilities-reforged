@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "enderutilities:item/dolly_empty"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "enderutilities:carrying": 1
+      },
+      "model": "enderutilities:item/dolly_carrying"
+    }
+  ]
+}

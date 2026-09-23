@@ -1,0 +1,12 @@
+﻿{
+  "variants": {
+    "creative=false,facing=north": { "model": "enderutilities:block/barrel" },
+    "creative=false,facing=south": { "model": "enderutilities:block/barrel", "y": 180 },
+    "creative=false,facing=west": { "model": "enderutilities:block/barrel", "y": 270 },
+    "creative=false,facing=east": { "model": "enderutilities:block/barrel", "y": 90 },
+    "creative=true,facing=north": { "model": "enderutilities:block/barrel_creative" },
+    "creative=true,facing=south": { "model": "enderutilities:block/barrel_creative", "y": 180 },
+    "creative=true,facing=west": { "model": "enderutilities:block/barrel_creative", "y": 270 },
+    "creative=true,facing=east": { "model": "enderutilities:block/barrel_creative", "y": 90 }
+  }
+}

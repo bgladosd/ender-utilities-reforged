@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_2"
+    },
+    "C": {
+      "item": "enderutilities:enderpart_endercore_2_active"
+    }
+  },
+  "pattern": [
+    "  C",
+    " A ",
+    "A  "
+  ],
+  "result": {
+    "id": "enderutilities:builderswand",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "minecraft:magenta_wool"
+    },
+    "L": {
+      "item": "minecraft:stone_pressure_plate"
+    },
+    "A": {
+      "item": "enderutilities:enderpart_enderalloy_0"
+    },
+    "P": {
+      "item": "minecraft:sticky_piston"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "WLW",
+    "APA",
+    "ARA"
+  ],
+  "result": {
+    "id": "enderutilities:ender_elevator",
+    "count": 2,
+    "components": {
+      "minecraft:block_state": {
+        "color": "magenta"
+      }
+    }
+  }
+}

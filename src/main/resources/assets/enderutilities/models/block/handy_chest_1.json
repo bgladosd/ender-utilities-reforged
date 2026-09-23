@@ -1,0 +1,9 @@
+{
+  "parent": "enderutilities:block/chest",
+  "textures": {
+    "particle": "enderutilities:block/handy_chest_1_front",
+    "front": "enderutilities:block/handy_chest_1_front",
+    "side": "enderutilities:block/handy_chest_1_side",
+    "top": "enderutilities:block/handy_chest_1_top"
+  }
+}

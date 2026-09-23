@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": { "item": "enderutilities:enderpart_enderrope" },
+    "C": { "item": "enderutilities:enderpart_endercore_1_inactive" },
+    "A": { "item": "enderutilities:enderpart_enderalloy_0" }
+  },
+  "pattern": [
+    "RR ",
+    "RC ",
+    "  A"
+  ],
+  "result": { "id": "enderutilities:enderlasso", "count": 1 }
+}
